@@ -29,6 +29,7 @@ public class GiaoDienHoSoActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.giao_dien_ho_so);
 
