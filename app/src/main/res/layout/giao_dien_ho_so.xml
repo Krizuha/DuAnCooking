@@ -403,7 +403,7 @@
 
                         <TextView
                             style="@style/ProfileOptionText"
-                        android:text="@string/profile_help" />
+                            android:text="@string/profile_help" />
 
                         <ImageView
                             style="@style/ProfileOptionChevron"
